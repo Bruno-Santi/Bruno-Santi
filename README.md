@@ -1,5 +1,11 @@
 # 💫 About Me:
-Full Stack Developer
+Hi there! My name is Bruno Santimaria and I'm a passionate front-end developer in training. I'm currently enrolled in the SoyHenry bootcamp, where I'm learning everything I need to become a successful web developer. I love the world of front-end development and have skills in HTML, CSS, Redux, React, and Tailwind.
+
+I'm excited to kick off my career in this field and I'm looking for my first job as a trainee or junior developer. I'm confident that I can bring valuable skills and knowledge to any development team.
+
+I love working on challenging and creative projects and I'm always eager to learn new things. If you're looking for a team member who can bring enthusiasm and energy to your project, please don't hesitate to get in touch.
+
+Thanks for reading my profile and I look forward to the opportunity to work with you!
 
 
 ## 🌐 Socials:
