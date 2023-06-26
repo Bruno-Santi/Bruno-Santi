@@ -10,6 +10,7 @@ Thanks for reading my profile and I look forward to the opportunity to work with
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Bruno-Santimaria/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:santimariabruno@gmail.com)
 
 
 # 💻 Tech Stack:
